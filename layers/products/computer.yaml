@@ -1,0 +1,6 @@
+name: computer
+wiki: https://en.wikipedia.org/wiki/computer
+components:
+  - name: cpu
+    intro: 中央处理器
+  - name: ram
